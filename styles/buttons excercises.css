@@ -1,0 +1,183 @@
+
+  .request-button
+  {
+    background-color:black;
+    color:white;
+    height:35px;
+    width:150px;
+    font-size:16px;
+    cursor:pointer;
+  }
+  .add-button
+  {
+    background-color:rgba(255, 226, 6, 0.897);
+    color:black;
+    height:35px;
+    width:210px;
+    border:none;
+    border-radius:20px;
+    font-size:16px;
+    cursor:pointer;
+    transition:background-color 0.15s;
+  }
+  .add-button:hover
+  {
+    background-color:rgb(238, 200, 13);
+  }
+  .sign-button
+  {
+    background-color:rgb(46, 164, 79);
+    color:white;
+    height:38px;
+    width:110px;
+    border-radius:8px;
+    font-weight:bold;
+    font-size:14px;
+    border:none;
+    cursor:pointer;
+    transition:box-shadow 0.15s;
+  }
+  .sign-button:hover
+  {
+    box-shadow:5px 5px 10px rgba(0,0,0,0.15);
+  }
+  .apply-button
+  {
+    background-color:rgba(10,102,194);
+    color:white;
+    border:none;
+    height:38px;
+    width:250px;
+    border-radius:18px;
+    font-weight:bold;
+    font-size:15px;
+    margin-right:10px;
+    cursor:pointer;
+    margin-right:10px;
+    margin-bottom:5px;
+    transition:background-color 0.15s;
+  }
+  .apply-button:hover
+  {
+    background-color:rgb(8, 82, 156);
+  }
+  .save-button
+  {
+    background-color:white;
+    color:rgba(10,102,194);
+    border-color:rgba(10,102,194);
+    border-style:solid; 
+    height:36px;
+    width:85px;
+    border-radius:18px;
+    font-weight:bold;
+    font-size:14px;
+    border-width:1px;
+    cursor:pointer;
+    transition:background-color 0.15s,border-width 0.15s;
+  }
+  .save-button:hover
+  {
+    background-color:rgb(208, 220, 234);
+    border-width:3px;
+  }
+  .get-button
+  {
+    background-color:rgb(120, 79, 182);
+    color:white;
+    height:38px;
+    width:120px;
+    border:none;
+    border-radius:5px;
+    font-weight:bold;
+    margin-right:10px;
+    border:none;
+    font-size:14px;
+    cursor:pointer;
+    transition:background-color 0.15s;
+ }
+ .get-button:hover
+ {
+  background-color:rgb(141, 92, 214);
+ }
+  .download-button
+  {
+    background-color:white;
+    color:rgba(120,79,182);
+    height:38px;
+    width:120px;
+    border-color:rgba(120,79,182);
+    border-style: solid;
+    border-radius:5px;
+    font-weight:bold;
+    border-width:1px;
+    cursor:pointer;
+    transition:background-color 0.15s,color 0.15s,border 0.15s;
+  }
+  .download-button:hover
+  {
+    background-color:rgba(77, 77, 77, 0.671);
+    color:white;
+    border:none;
+  }
+  .amazon-para
+  {
+    color:rgb(0,113,133);
+    font-size:18px;
+    transition:color 0.15s;
+  }
+  .amazon-para:hover
+  {
+    color:orange;
+    }
+    .nike-para
+    {
+    color:black;
+    font-weight:bold;
+    font-size:22px;
+  }
+  .stock-para
+  {
+    color:rgb(37, 174, 3);
+    font-weight:bold;
+    font-size:18px;
+  }
+  .free-para
+  {
+  color:black;
+  font-size:18px;
+  }
+  .cart-button
+  {
+    background-color:rgba(255, 226, 6, 0.897);
+    color:black;
+    height:35px;
+    width:140px;
+    border:none;
+    border-radius:18px;
+    font-size:15px;
+    cursor:pointer;
+    font-weight:bold;
+    margin-right:8px;
+    transition:background-color 0.15s;
+  }
+  .cart-button:active
+  {
+    background-color:rgba(255, 205, 22, 0.897);
+  }
+  .buy-button
+  {
+    background-color:rgb(255,164,28);
+    width:140px;
+    height:35px;
+    font-weight:bold;
+    font-size:16px;
+    border:none;
+    border-radius:18px;
+    transition:background-color 0.15s;
+    cursor:pointer;
+  }
+  .buy-button:active{
+    opacity:0.8;
+  }
+

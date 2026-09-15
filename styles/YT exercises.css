@@ -1,0 +1,115 @@
+     .cat{
+        width:160px;
+        height:90px;
+        object-fit:cover;
+        object-position:center;
+        border-radius:10px;
+      }
+      .cat2{
+        width:100px;
+        height:90px;
+        object-fit:cover;
+       
+        margin-top:20px;
+      }
+      .cat3{
+        width:50px;
+        height:50px;
+        object-fit:cover;
+        border-radius:100px;
+        margin-top:20px;
+        vertical-align:middle;
+      }
+      .what{
+        font-size:14px;
+        font-family:arial;
+        color:grey;
+        border:none;
+        margin-top:20px;
+        vertical-align:middle;
+        
+        
+      }
+      .tweet{
+      background-color:rgb(43, 143, 230);
+      color:white;
+      border:none;
+      border-radius:20px;
+      padding-left:14px;
+      padding-right:14px;
+      padding-top:8px;
+      padding-bottom:8px;
+      margin-top:10px;
+      cursor:pointer;
+      margin-right:10px;
+      font-weight:bold;
+      font-size:14px;
+      margin-left:8px;
+      transition:box-shadow 0.15s;
+      vertical-align:middle;
+    }
+    .tweet:hover{
+      box-shadow:5px 5px 10px rgba(0,0,0,0.15);
+    }
+    .email{
+      font-family:arial;
+      font-size:14px;
+      color:grey;
+      margin-bottom:5px;
+      
+    }
+    .box{
+      border:solid;
+      border-width:2px;
+      border-radius:4px;
+      width:380px;
+      height:20px;
+    }
+    .by{
+      color:rgb(99, 99, 99);
+      font-family:arial;
+      margin-top:15px;;
+    }
+    .apply
+    {
+     background-color:rgba(10,102,194);
+     color:white;
+     border:none;
+     height:38px;
+     width:250px;
+     border-radius:18px;
+     font-family:arial;
+     font-size:16px;
+     margin-right:10px;
+     cursor:pointer;
+     margin-right:10px;
+     margin-bottom:5px;
+     margin-top:0;
+     transition:background-color 0.15s;
+    }
+    .google{
+      width:380px;
+      height:25px;
+      border-radius:20px;
+      border:none;
+      font-size:14px;
+      box-shadow:0px 0px 10px rgba(0,0,0,0.15);
+      padding-left:12px;
+      padding-top:5px;
+      padding-bottom:5px;
+    }
+    .search{
+      width:180px;
+      height:40px;
+      font-size:16px;
+      padding-left:10px;
+      border-radius:8px;
+      border:1px solid rgb(165, 164, 164);
+    }
+    .divcat3{
+     background-color:blue;
+     width:100px;
+     height:100px;
+     margin-top:20px;
+     box-shadow:0 0 0 black ; 
+    }

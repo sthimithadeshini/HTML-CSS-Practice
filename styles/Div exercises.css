@@ -1,0 +1,94 @@
+.cat1{
+        width:140px;
+        height:130px;
+        object-fit:cover;
+      }
+      .block1{
+        height:230px;
+        display:inline-block;
+        margin-right:20px;
+        box-shadow:0 0 10px rgba(0,0,0,0.15);
+        vertical-align:top;
+      }
+      .p1{
+        font-family:arial;
+        font-weight:bold;
+        font-size:16px;
+        margin-top:5px;
+        margin-left:6px;
+        margin-bottom:5px;
+      }
+      .p2{
+        font-family:arial;
+        font-size:14px;
+        color:rgb(112, 112, 112);
+        margin-top:0;
+        margin-bottom:15px;
+        margin-left:6px;
+      }
+      .b1{
+        background:rgb(82, 82, 237);
+        color:white;
+        border:none;
+        border-radius:2px;
+        font-family:arial;
+        width:90px;
+        height:30px;
+        margin-left:6px;
+      }
+      .dog{
+        width:140px;
+        height:130px;
+        object-fit:cover;
+      }
+      .block2{
+        height:230px;
+        display:inline-block;
+        margin-right:20px;
+        box-shadow:0 0 10px rgba(0,0,0,0.15);
+        vertical-align:top;
+      }
+      .p3{
+        font-family:arial;
+        font-weight:bold;
+        font-size:16px;
+        margin-top:5px;
+        margin-left:6px;
+        margin-bottom:5px;
+      }
+      .p4{
+        font-family:arial;
+        font-size:14px;
+        color:rgb(112, 112, 112);
+        margin-top:0;
+        margin-bottom:15px;
+        margin-left:6px;
+      }
+      .dog2{
+        width:140px;
+        height:130px;
+        object-fit:cover;
+      }
+      .block3{
+        height:230px;
+        display:inline-block;
+        margin-right:20px;
+        box-shadow:0 0 10px rgba(0,0,0,0.15);
+        vertical-align:top;
+      }
+      .p5{
+        font-family:arial;
+        font-weight:bold;
+        font-size:16px;
+        margin-top:5px;
+        margin-left:6px;
+        margin-bottom:5px;
+      }
+      .p6{
+        font-family:arial;
+        font-size:14px;
+        color:rgb(112, 112, 112);
+        margin-top:0;
+        margin-bottom:15px;
+        margin-left:6px;
+      }
